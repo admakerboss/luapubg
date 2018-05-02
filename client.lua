@@ -1,3 +1,7 @@
-function newChange( ... )
+function newChange()
+	-- body
+end
+
+function secondChange()
 	-- body
 end
