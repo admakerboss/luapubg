@@ -1,0 +1,3 @@
+function newChange( ... )
+	-- body
+end
