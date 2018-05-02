@@ -1,7 +1,8 @@
-function newChange()
+
+function secondChange()
 	-- body
 end
 
-function secondChange()
+function thirdChange()
 	-- body
 end
