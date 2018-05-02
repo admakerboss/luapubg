@@ -1,4 +1,3 @@
-
 function secondChange()
 	-- body
 end
